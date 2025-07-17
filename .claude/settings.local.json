@@ -15,7 +15,19 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "Bash(npx tailwindcss init:*)",
-      "Bash(git reset:*)"
+      "Bash(git reset:*)",
+      "Bash(cp:*)",
+      "Bash(copy:*)",
+      "Bash(powershell:*)",
+      "Bash(start:*)",
+      "Bash(cmd /C copy:*)",
+      "Bash(cmd:*)",
+      "Bash(MSYS2_ARG_CONV_EXCL=\"*\" cmd //C \"copy \"\"C:\\Users\\nakat\\Desktop\\作業\\01.ブログ・ホームページ\\Twitter\\Twitterbaner.png\"\" \"\"C:\\Users\\nakat\\code\\20250716_ai-sidejob\\my-blog-frontend\\public\\twitter-banner.png\"\"\")",
+      "Bash(npm run build:*)",
+      "Bash(ls:*)",
+      "Bash(rm:*)",
+      "Bash(npx vercel:*)",
+      "Bash(mkdir:*)"
     ],
     "deny": []
   }
